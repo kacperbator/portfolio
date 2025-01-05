@@ -28,7 +28,7 @@ Każdy projekt znajduje się w osobnym folderze. Każdy folder zawiera:
 ## Kontakt
 
 Jeśli chcesz się ze mną skontaktować, zapraszam do odwiedzenia mojej strony:
-- [Moja strona internetowa]([#](https://kacperbator.pl/)) (w budowie)
+- [Moja strona internetowa](https://kacperbator.pl/) (w budowie)
 - [LinkedIn](https://www.linkedin.com/in/kacper-bator-8a3899241/)
 
 Zapraszam do przeglądania i komentowania moich projektów!
