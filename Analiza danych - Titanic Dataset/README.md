@@ -1,22 +1,62 @@
-# Projekt 1: Analiza danych - Titanic Dataset
+# Titanic Data Analysis
 
-## Opis projektu
-W tym projekcie przeanalizowano zbiór danych Titanic. Celem było zrozumienie czynników wpływających na przeżywalność pasażerów oraz zaprezentowanie technik eksploracyjnej analizy danych (EDA).
+This repository contains a Jupyter Notebook for analyzing the Titanic dataset. The analysis explores passenger demographics, survival rates, and correlations between various features and survival likelihood. This project serves as an introduction to data analysis and visualization using Python.
 
-## Cele
-- Wczytanie i oczyszczenie danych
-- Eksploracyjna analiza danych
-- Wizualizacja wyników
+## Features
 
-## Technologie
-- Python
-- pandas
-- matplotlib, seaborn
+- Data cleaning and preprocessing.
+- Exploratory data analysis (EDA) with visualizations.
+- Statistical insights and correlation analysis.
+- Insights into survival factors such as age, gender, class, and fare.
 
-## Pliki
-- `titanic_analysis.ipynb` - notebook z pełną analizą
+## Dependencies
 
-## Jak uruchomić
-1. Sklonuj repozytorium
-2. Uruchom `jupyter notebook`
-3. Otwórz plik `titanic_analysis.ipynb`
+To run the analysis, the following Python libraries are required:
+
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+
+Install the dependencies with:
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+## Dataset
+
+The dataset used in this analysis is the Titanic dataset, which is available on [Kaggle](https://www.kaggle.com/c/titanic/data). Please download and place the `titanic.csv` file in the root directory before running the notebook.
+
+## How to Run
+
+1. Clone this repository:
+    ```bash
+    git clone <repository-url>
+    ```
+2. Navigate to the repository:
+    ```bash
+    cd <repository-directory>
+    ```
+3. Open the Jupyter Notebook:
+    ```bash
+    jupyter notebook titanic_data_analysis.ipynb
+    ```
+4. Run the cells in the notebook sequentially to perform the analysis.
+
+## Key Insights
+
+- **Survival Rates:** Analysis of survival rates across different passenger classes, genders, and age groups.
+- **Correlations:** Insights into the correlation between ticket fares and survival likelihood.
+- **Visualization:** Graphical representations of data distributions and survival patterns.
+
+## Contributions
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request with any improvements or additional analyses.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+**Note:** Ensure that the `titanic_data_analysis.ipynb` file is updated with the latest results and insights from your analysis.
