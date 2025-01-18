@@ -25,7 +25,7 @@ pip install pandas numpy matplotlib seaborn
 
 ## Dataset
 
-The dataset used in this analysis is the Titanic dataset, which is available on [Kaggle](https://www.kaggle.com/c/titanic/data). Please download and place the `titanic.csv` file in the root directory before running the notebook.
+The dataset used in this analysis is included in the repository. Ensure that the `titanic.csv` file is in the same directory as the Jupyter Notebook file.
 
 ## How to Run
 
