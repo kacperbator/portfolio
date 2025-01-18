@@ -31,7 +31,7 @@ The dataset used in this analysis is included in the repository. Ensure that the
 
 1. Clone this repository:
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/kacperbator/portfolio/tree/accd2cdb3c41def9bc7b6174552366baf1c1ce73/Data%20Analysis%20-%20Titanic%20Dataset>
     ```
 2. Navigate to the repository:
     ```bash
