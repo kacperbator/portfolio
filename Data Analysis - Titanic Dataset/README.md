@@ -35,7 +35,7 @@ The dataset used in this analysis is included in the repository. Ensure that the
     ```
 2. Navigate to the repository:
     ```bash
-    cd <repository-directory>
+    cd <Data Analysis - Titanic Dataset>
     ```
 3. Open the Jupyter Notebook:
     ```bash
