@@ -1,34 +1,34 @@
 # Portfolio
 
-Witaj w moim repozytorium z projektami portfolio! Znajdziesz tutaj różnorodne projekty, które odzwierciedlają moje umiejętności oraz doświadczenie w zakresie analizy danych oraz programowania.
+Welcome to my portfolio repository! Here you will find a variety of projects that showcase my skills and experience in data analysis and programming.
 
-## Zawartość repozytorium
+## Repository Contents
 
-- **Data Science & Analiza Danych**
-  - Projekty dotyczące eksploracyjnej analizy danych (EDA)
-  - Modele predykcyjne i klasyfikacyjne
+- **Data Science & Data Analysis**
+  - Projects focused on exploratory data analysis (EDA)
+  - Predictive and classification models
 
-- **Narzędzia do Analizy Danych**
-  - Analiza danych w Pythonie i Excelu
-  - Projekty wizualizacji danych
+- **Data Analysis Tools**
+  - Data analysis using Python and Excel
+  - Data visualization projects
 
-## Technologie używane w projektach
+## Technologies Used in Projects
 
 - Python (NumPy, Pandas, Matplotlib, Scikit-Learn)
 - Excel
-- Git i GitHub
+- Git and GitHub
 - Notion
 
-## Jak używać repozytorium?
+## How to Use This Repository
 
-Każdy projekt znajduje się w osobnym folderze. Każdy folder zawiera:
-- Plik `README.md` opisujący projekt, jego cele i użyte technologie.
-- Kod źródłowy lub pliki użyte w projekcie.
+Each project is located in a separate folder. Each folder contains:
+- A `README.md` file describing the project, its goals, and the technologies used.
+- Source code or files used in the project.
 
-## Kontakt
+## Contact
 
-Jeśli chcesz się ze mną skontaktować, zapraszam do odwiedzenia mojej strony:
-- [Moja strona internetowa](https://kacperbator.pl/) (w budowie)
+If you'd like to get in touch with me, feel free to visit my page:
+- [My Website](https://kacperbator.pl/) (under construction)
 - [LinkedIn](https://www.linkedin.com/in/kacper-bator-8a3899241/)
 
-Zapraszam do przeglądania i komentowania moich projektów!
+Feel free to browse through and comment on my projects!
