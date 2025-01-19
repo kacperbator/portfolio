@@ -18,6 +18,8 @@ Welcome to my portfolio repository! Here you will find a variety of projects tha
 - Excel
 - Git and GitHub
 - Notion
+- Excel
+- SQL
 
 ## How to Use This Repository
 
