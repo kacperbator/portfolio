@@ -30,7 +30,7 @@ pip install pandas numpy matplotlib seaborn
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kacperbator/car-data-analysis.git
+   git clone https://github.com/kacperbator/portfolio/tree/9cc841aaca1eb4fc25da13fa9b18c0962616366b/Data%20Analysis%20-%20Cars%20Dataset
    ```
 2. Navigate to the project directory:
    ```bash
