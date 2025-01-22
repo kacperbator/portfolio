@@ -34,7 +34,7 @@ pip install pandas numpy matplotlib seaborn
    ```
 2. Navigate to the project directory:
    ```bash
-   cd car-data-analysis
+   cd portfolio/Data\ Analysis\ -\ Cars\ Dataset
    ```
 3. Open the Jupyter Notebook:
    ```bash
